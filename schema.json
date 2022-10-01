@@ -1,0 +1,18 @@
+{
+  "type": "component",
+  "metadata": {},
+  "schema": {
+    "name": "bb-qr-code",
+    "friendlyName": "bb-qr-code",
+    "description": "Display your data as a qr code in budibase.",
+    "icon": "Text",
+    "settings": [
+      {
+        "type": "text",
+        "key": "text",
+        "label": "Text",
+        "defaultValue": "This is my qr code."
+      }
+    ]
+  }
+}
