@@ -5,6 +5,7 @@ on:
     branches:
       - master
       - main
+      - set-size-of-qr-code
 
 jobs:
   build:
