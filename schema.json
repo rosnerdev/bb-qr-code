@@ -12,6 +12,30 @@
         "key": "text",
         "label": "Text",
         "defaultValue": "This is my qr code."
+      },
+      {
+        "type": "number",
+        "key": "size",
+        "label": "Size",
+        "defaultValue": 200
+      },
+      {
+        "type": "text",
+        "key": "color",
+        "label": "Foreground color(hex)",
+        "defaultValue": "#000"
+      },
+      {
+        "type": "text",
+        "key": "backgroundColor",
+        "label": "Background color(hex)",
+        "defaultValue": "#fff"
+      },
+      {
+        "type": "number",
+        "key": "padding",
+        "label": "Padding",
+        "defaultValue": 0
       }
     ]
   }
